@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botInstagram/__init__.py
+botInstagram/__main__.py
+botInstagram/bot.py
+botInstagram.egg-info/PKG-INFO
+botInstagram.egg-info/SOURCES.txt
+botInstagram.egg-info/dependency_links.txt
+botInstagram.egg-info/requires.txt
+botInstagram.egg-info/top_level.txt
+botInstagram/resources/start.png

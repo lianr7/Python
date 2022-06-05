@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botCommentInsta/__init__.py
+botCommentInsta/__main__.py
+botCommentInsta/bot.py
+botCommentInsta.egg-info/PKG-INFO
+botCommentInsta.egg-info/SOURCES.txt
+botCommentInsta.egg-info/dependency_links.txt
+botCommentInsta.egg-info/requires.txt
+botCommentInsta.egg-info/top_level.txt
+botCommentInsta/resources/start.png
